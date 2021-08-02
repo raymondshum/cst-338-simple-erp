@@ -14,7 +14,7 @@
 
 import java.time.*;
 import java.util.Scanner;
-public class Assig8_FinalProject
+public class Main
 {
    public static void main(String[] args)
    {
