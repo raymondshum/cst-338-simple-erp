@@ -2,6 +2,8 @@
 
 This repository represents the final project for the course CST 338: Software Design. The project summary and spec sheet are present within the documentation below.
 
+[![Run on Repl.it](https://repl.it/badge/github/raymondshum/cst338-simple-erp)](https://replit.com/@raymondshum/cst-338-simple-erp
+
 ---
 
 ## Table of Contents
